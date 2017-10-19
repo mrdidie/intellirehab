@@ -1,0 +1,4 @@
+[23-Feb-2017 01:30:27 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined function getdesc() in /home/squarewo/public_html/usim/application/views/therapist_researcher/edit_patient_view.php on line 596
+[15-Mar-2017 21:13:14 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/squarewo/public_html/usim/application/models/Follow_up_model.php on line 54
+[15-Mar-2017 21:13:24 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type stdClass as array in /home/squarewo/public_html/usim/application/models/Follow_up_model.php on line 54
+[16-Mar-2017 00:41:01 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function library() on null in /home/squarewo/public_html/usim/application/models/Researcher_model.php on line 2047

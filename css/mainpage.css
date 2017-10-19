@@ -1,0 +1,101 @@
+.size-12 { font-size: 12px; }
+      
+.size-14 { font-size: 14px; }
+
+.size-16 { font-size: 16px; }
+
+.size-18 { font-size: 18px; }
+
+.size-21 { font-size: 21px; }
+
+.size-24 { font-size: 24px; }
+
+.size-36 { font-size: 36px; }
+
+.size-48 { font-size: 48px; }
+
+.size-60 { font-size: 60px; }
+
+.size-72 { font-size: 72px; }
+
+.top-bar-utama {
+    background-color:#4B646F;
+    color:#fff;
+}
+
+.top-bar-utama-top {
+    background-color:#fff;
+    color:#222;
+}
+
+.top-bar-utama > .menu {
+    background-color: #4B646F;
+    color:#fff;
+}
+
+.top-bar-utama > .menu {
+    background-color: #4B646F;
+    color:#fff;
+}
+
+.off-canvas-content{
+    background-color: #F7F7F7;
+}
+
+.top-bar-side {
+    background-color:#222D32;
+}
+
+.top-bar-side > .menu {
+    background-color: #222D32;
+}
+
+.top-bar-side > .menu {
+    background-color: #222D32;
+}
+
+
+.edumix-notf-test {
+    position: relative;
+    top: -10px;
+    right: 7px;
+    text-align: center !important;
+    font-size: 12px;
+    padding: 2px 3px;
+    line-height: 120%;
+    border-radius: 50%;
+    color: #fff !important;
+    font-weight: bold !important;
+}
+
+.calendar {
+    font-family:Arial;
+    font-size:14px;
+}
+
+table .calendar {
+    border:1px solid #ccc;
+}
+
+.calendar .days td {
+    width : 80px;
+    height: 80px;
+    padding: 4px;
+    /*border: 1px solid #eee;*/
+    vertical-align:top;
+    background-color: :#00f;
+}
+
+
+.calendar .highlight {
+    font-weight:bold;
+    color:#4b646f;
+}
+
+.menu-text {
+    color:#4b646f;
+    white-space: nowrap;
+}
+
+h6 { font-family: 'Signika', sans-serif; font-size: 15px; font-weight: 300; line-height: 6px; margin: 0 0 24px; }
+

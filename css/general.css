@@ -1,0 +1,88 @@
+body {
+	background-color:#fafafa;
+}
+
+.box-login {
+	/*border:1px solid #222;*/
+	/*padding: 3rem;*/
+  	/*border-radius: 3px; */
+  	/*width:30px;*/
+  	padding:5rem;
+}
+
+.log-in-form {
+  /*border: 1px solid #cacaca;*/
+  color:#fff;
+  font-size:2em;
+
+}
+
+.log-in-form > label {
+	color:#fff;
+	font-size:17px;
+}
+
+
+.forgot_password, .forgot_password:hover {
+	font-size:15px;
+	color:#fff;
+}
+
+
+.wrapper {
+	margin:80px auto;
+}
+
+.button_hitam, .button_hitam:hover {
+	background-color:#222;
+	color:#fff;
+}
+
+li > a:hover {
+	font-weight:bold;
+	color:#fff;
+}
+
+.alert-box {
+  background: #f7f7f7;
+  color: #333;
+  border: none;
+  border-left: 8px solid #008CBA;
+  box-shadow: 0 5px 8px -6px rgba(0, 0, 0, 0.2); 
+}
+.alert-box .success {
+	background: #f7f7f7;
+	color: #333; 
+}
+.alert-box .alert {
+	background: #f7f7f7;
+	color: #333; 
+}
+.alert-box .warning {
+	background: #f7f7f7;
+	color: #333; 
+}
+.alert-box .info {
+	background: #f7f7f7;
+	color: #333; 
+}
+.alert-box .small {
+	padding-top: 0.25rem;
+	padding-bottom: 0.25rem;
+	font-size: 0.75rem; 
+}
+.alert-box.small .close {
+  font-size: 1.5rem; 
+}
+.alert-box.large {
+	padding-top: 1.5rem;
+	padding-bottom: 1.5rem;
+	font-size: 2rem; 
+}
+.alert-box.large .close {
+  font-size: 3rem; 
+}
+.alert-box .close {
+	font-size: 2rem;
+	line-height: 1.25rem; 
+}
