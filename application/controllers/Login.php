@@ -24,6 +24,7 @@ class Login extends CI_Controller {
 		
 		$check_login = $this->Login_model->verify();
 		// die($check_login);
+		// testing adjust
 
 		if($check_login==999){ // admin page
 			redirect("admin");
