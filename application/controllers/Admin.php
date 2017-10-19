@@ -17,6 +17,8 @@ class Admin extends CI_Controller {
 			redirect("login");
 		}
 
+		// testing github
+
 	}
 
 	public function index(){
